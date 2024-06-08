@@ -159,6 +159,52 @@ DataType.
 And the good news is, as the requirement is not fulfilled of the input data, it displays the error message.
 
 Time: 2 hours
+===================================================================================================
+
+2024-06-06  
+Anjan Panta  
+1400 EDT  
+
+1400  
+As I used VirtualBox on my Mac machine, I tried to open Microsoft Windows 10 on VirtualBox to upload the project,
+but it failed to run due to NS_ERROR_FAILURE (0X80004005) error shown by VirtualBox.
+
+1440  
+Attempted to troubleshoot the issue by visiting [VirtualBox Forums]
+(https://forums.virtualbox.org/viewtopic.php?t=102615) and [Stack Overflow]
+(https://stackoverflow.com/questions/67372305/virtualbox-wont-run-win10-failed-to-open-a-session-for-the-virtual-machine-w10); however, no solution was found.
+
+1500  
+Explored YouTube videos for relevant information, but still could not resolve the issue.
+
+Time Taken: 1 hour  
+=============================================================================================================
+
+2024-06-08  
+Anjan Panta  
+0800 EDT  
+
+0805  
+Attempted to troubleshoot the issue again with VirtualBox by looking into online resources, and 
+found that shutting down the saved state would solve the issue.
+
+0810  
+Logged into the system, opened Visual Studio, and started running the MVC web application, and it 
+worked perfectly.
+
+0820  
+Took a break.
+
+0835  
+Created and pushed the project to GitHub after signing in with credentials.
+
+0840  
+Cloned the repository to check if it works, and it worked perfectly.
+
+Time Taken: 40 minutes  
+=============================================================================================================
+
+
 
 
 
