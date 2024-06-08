@@ -175,7 +175,7 @@ Attempted to troubleshoot the issue by visiting [VirtualBox Forums]
 (https://stackoverflow.com/questions/67372305/virtualbox-wont-run-win10-failed-to-open-a-session-for-the-virtual-machine-w10); however, no solution was found.
 
 1500  
-Explored YouTube videos for relevant information, but still could not resolve the issue.
+Explored YouTube videos for relevant\ solution, but still could not resolve the issue.
 
 Time Taken: 1 hour  
 =============================================================================================================
@@ -199,7 +199,7 @@ Took a break.
 Created and pushed the project to GitHub after signing in with credentials.
 
 0840  
-Cloned the repository to check if it works, and it worked perfectly.
+Cloned the repository in the Visual Studio to check if it works, and it worked perfectly.
 
 Time Taken: 40 minutes  
 =============================================================================================================
